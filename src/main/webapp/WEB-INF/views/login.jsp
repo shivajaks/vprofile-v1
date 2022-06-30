@@ -71,7 +71,7 @@
 <div class="container">
 	
     <form method="POST" action="${contextPath}/login" class="form-signin">
-        <h2 class="form-heading" align="center"> Hello Batch 630! </h2>
+        <h2 class="form-heading" align="center"> Hello Batch 430! </h2>
         <div class="form-group ${error != null ? 'has-error' : ''}">
             <span>${message}</span>
             <input name="username" type="text" class="form-control" placeholder="Username"
